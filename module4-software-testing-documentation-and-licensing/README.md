@@ -65,3 +65,5 @@ Read [the MIT License, Line by
 Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html),
 and write your own summary of it with a target audience of another person who
 writes code..
+
+# Assignment Link: [lambdata](https://github.com/JeremySpradlin/lambdata)
